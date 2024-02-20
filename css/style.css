@@ -1,0 +1,19 @@
+table,tr,th,td,caption{
+    border-collapse: collapse;
+    border: 1px solid black;
+    font-family: cursive;
+    padding: 0.5rem;
+
+}
+
+body{
+    float: left;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 10px;
+    width:fit-content;
+    height: fit-content;
+    border: 1px solid black;
+    
+
+} 
